@@ -1,0 +1,9 @@
+Cell_ID|Cell_Name|Instrument|Technique|Sample_Size|Window_Material|Equipment
+1|POLARIS|POLARIS, GEM|ND, NPDF|2x4cm|Vanadium, aluminium, nickel, or copper|-
+2|BAM|POLARIS, GEM, EMU, HiFi spectrometer|muSR|18mm diameter|Typically stainless steel|-
+3|DRIX|B15-1, DIAD|XPDF, XAS, XRS|2.9mm diameter|Quartz|Heater available (able to reach 600 degrees Celsius), multi-cell holder available
+4|Spectro-echem flow cell|B07, B22, B18, P22 (DESY synchrotron)|NEXAFS, soft XPS|45mm diameter|Silicon nitride, or mono-layer graphene|-
+5|NIMROD e-chem cell|NIMROD|SANS, NPDF|30x30mm|Quartz|-
+6|B18 flow cell|B18|XAS|-|Kapton|-
+7|B18 static cell|B18|XAS|1mmx1mm (beam size)|Kapton|-
+8|B18 SPECXAS cell|B18|XAS|20mm diameter|Kapton|-
